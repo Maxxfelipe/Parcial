@@ -1,5 +1,5 @@
 # Parcial Andres Felipe Yela Sanchez
-la estructura que yo utilice para poder realizar las condiciones del código fue la condicional if y else if ya que en la actividad nos piden condiciones específicas para que uno sea múltiplo del otro o en dicho caso ninguno sea múltiplo 
+1- la estructura que yo utilice para poder realizar las condiciones del código fue la condicional if y else if ya que en la actividad nos piden condiciones específicas para que uno sea múltiplo del otro o en dicho caso ninguno sea múltiplo 
 
 3- en mi caso ya que yo uso solo la extensión int si pusieran valores decimales aparecerían varios errores y tendrías que hacer que el programa arranque de nuevo
 
